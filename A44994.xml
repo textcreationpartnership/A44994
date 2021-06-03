@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble petition and resolvtion of the countie of Kent presented and read  to the Right Honourable the Lords assembled in Parliament August 30, 1642 : with The answer of the Lords thereunto annexed, August 30, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44994</idno><idno type="EEBO-CITATION">13506387</idno>
+  <idno type="VID">99814</idno>
+  <idno type="EEBO-PROQUEST">2240849540</idno>
+  
+            <idno type="STC">Wing H3446</idno>
+            <idno type="STC">ESTC R6804</idno>
+            <idno type="OCLC">13506387</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 791:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble petition and resolvtion of the countie of Kent presented and read  to the Right Honourable the Lords assembled in Parliament August 30, 1642 : with The answer of the Lords thereunto annexed, August 30, 1642.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>September 1, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Kent (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99814:1"/>
+            <pb facs="tcp:99814:1"/>
+            <p>The humble PETITION And RESOLVTION Of the COUNTIE Of KENT, Presented and Read to the Right Honourable the Lords assembled in Parliament, August 30, 1642.</p>
+            <p>With the Answer of the Lords thereunto Annexed.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>August 30, 1642.</hi>
+                              </date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords in Parliament, that this Peti<g ref="char:EOLhyphen"/>tion together with the Answer thereunto, shall bee forthwith Printed and published.</p>
+                        <closer>
+                           <signed>John Browne Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>September</hi> 1, Printed for <hi>John Wright.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:99814:2"/>
+            <pb facs="tcp:99814:2"/>
+            <head>To the Right Honourable the Lords Assembled in Parliament,</head>
+            <head type="sub">The humble Petition and Re<g ref="char:EOLhyphen"/>solution of the Gentlement, Freehol<g ref="char:EOLhyphen"/>ders, and other Inhabitants of the County of <hi>Kent.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E your humble and faithfull Petitio<g ref="char:EOLhyphen"/>ners, inhabiting the County of <hi>Kent,</hi> be<g ref="char:EOLhyphen"/>ing deepely sensible of the many mise<g ref="char:EOLhyphen"/>ries which these ca<g ref="char:EOLhyphen"/>lamitous times (not<g ref="char:EOLhyphen"/>withstanding your great care and vigi<g ref="char:EOLhyphen"/>lence to prevent the same) are likely to produce, wherein his gracious Maiesty seduced by the malevolent counsell of an ill affected party of
+<pb facs="tcp:99814:3"/>malignants and Cavaliers; The Protestant Religion, his Royall person, and Honour, the priviledge of Parliament, and the Subiect, Li<g ref="char:EOLhyphen"/>berty, are threatned with too too apparent hazard and ruine, Towards the support of which your Petitioners, according to the duty of Loyall Subiects, and good Christians, are not onely willing to contribute their best wishes and votes, but even the vtmost of their endeavours, both with their lives and fortunes for the redee<g ref="char:EOLhyphen"/>ming of his Maiesty from such hands, and our Religion and Liberty from such perill and danger: But may it please this Honourable House to consider that the Petitioners apprehend themselves in a condition and posture no<g ref="char:EOLhyphen"/>thing sutable to this their Resolution being de<g ref="char:EOLhyphen"/>prived, and left naked by the taking our Armes from us in the late Expedition for <hi>Scotland:</hi> we therefore beseech your provident care to impower us with such a proportion of Ammuni<g ref="char:EOLhyphen"/>tion and Armes to be magazined in these parts, whereby we may be inabled to manifest our Af<g ref="char:EOLhyphen"/>fections and obedience to the command of King and Parliament, both for the persuance of the
+<pb facs="tcp:99814:3"/>aforesaid Intentions, and opposition of all Ille<g ref="char:EOLhyphen"/>gall Infringements of our Lawes and Liberties, such as the Comission of Array, wherewith we are at this time threatned, and what other of the like Nature and condition soever shall be here<g ref="char:EOLhyphen"/>after obtruded upon us.</p>
+            <closer>And your Petitioners shall be bound, &amp;c.</closer>
+         </div>
+         <div type="answer_to_petition">
+            <pb facs="tcp:99814:4"/>
+            <head>The Answer of the Lords, to the aforesaid Petition.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lords have ta<g ref="char:EOLhyphen"/>ken your Petiti<g ref="char:EOLhyphen"/>on into conside<g ref="char:EOLhyphen"/>ration, and can<g ref="char:EOLhyphen"/>not but with great content ob<g ref="char:EOLhyphen"/>serve the constancy of your good affections to the King and Parli<g ref="char:EOLhyphen"/>ament, which as well formerly as at this present you have expres<g ref="char:EOLhyphen"/>sed by your Petitions to this House, and disclaiming and op<g ref="char:EOLhyphen"/>posing with so much industrie and fidelity, the sedicious de<g ref="char:EOLhyphen"/>signes
+<pb facs="tcp:99814:4"/>and endeavours of some Malignant and ill-affected per<g ref="char:EOLhyphen"/>sons within your County, to sup<g ref="char:EOLhyphen"/>presse whose malicious practizes and to preserve that County in peace; care hath already bin taken by the Parliament with good successe, and as they inten<g ref="char:EOLhyphen"/>ded it, and doe beleeve to your content, safety and satisfaction. And their Lordships doe fur<g ref="char:EOLhyphen"/>ther assure you that they will al<g ref="char:EOLhyphen"/>wayes continue the like care, as for the good, safety, and peace of the whole Kingdome, so in par<g ref="char:EOLhyphen"/>ticular of that County, being encouraged thereunto by this seasonable Petition, of your Re<g ref="char:EOLhyphen"/>solutions and good affections, for the manifestation whereof, of
+<pb facs="tcp:99814:5"/>the whole Kingdome, and of their Lordships kind acceptation and thankes for the same. Their Lordships have commanded your petition and their Answer, to be forthwith printed and published.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>August 30, 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords assembled in Par<g ref="char:EOLhyphen"/>liament, that this Petition and An<g ref="char:EOLhyphen"/>swer shall be forthwith Printed and Publi<g ref="char:EOLhyphen"/>shed.</p>
+                        <closer>
+                           <signed>John Browne Cleric. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99814:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
